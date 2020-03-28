@@ -1526,3 +1526,72 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.28-17.23.53:205][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
 [2020.03.28-17.23.53:242][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2020.03.28-17.23.53:265][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.03.28-17.24.39:231][866]LogSlate: Window 'Levels' being destroyed
+[2020.03.28-17.28.18:914][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.03.28-17.28.18:967][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.03.28-17.28.19:125][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/TopDownExampleMap1E4B9FD74ECDA9AD8D7CC799EE6A63F4.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.03.28-17.28.19:144][190]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.203
+[2020.03.28-17.28.19:144][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2020.03.28-17.28.19:184][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/TopDownExampleMap_BuiltData6DA94AB44B40249596EEC382279D1AF3.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.03.28-17.28.19:211][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.03.28-17.28.19:227][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/InteractionsJJB85980B2C45C54CE3467239B75C74D4AC.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/InteractionsJJB.umap'
+[2020.03.28-17.28.19:229][190]LogFileHelpers: Saving map 'InteractionsJJB' took 0.043
+[2020.03.28-17.28.19:230][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/InteractionsJJB_BuiltData" FILE="../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/InteractionsJJB_BuiltData.uasset" SILENT=true
+[2020.03.28-17.28.19:261][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/InteractionsJJB_BuiltData3847613241848EB66ED0ED856809B0C2.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/InteractionsJJB_BuiltData.uasset'
+[2020.03.28-17.28.19:287][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.03.28-17.28.19:305][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/InteractionsStephFBA9B91249B1A06E2E42FABFED6AFCB9.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/InteractionsSteph.umap'
+[2020.03.28-17.28.19:308][190]LogFileHelpers: Saving map 'InteractionsSteph' took 0.044
+[2020.03.28-17.28.19:308][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/InteractionsSteph_BuiltData" FILE="../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/InteractionsSteph_BuiltData.uasset" SILENT=true
+[2020.03.28-17.28.19:338][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/InteractionsSteph_BuiltData2D8FA97B4F9906286347A889886D9504.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/InteractionsSteph_BuiltData.uasset'
+[2020.03.28-17.28.19:363][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.28-17.28.19:379][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/InteractionsAero69B9306B4F783F323746FF9D3D8A6740.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/InteractionsAero.umap'
+[2020.03.28-17.28.19:382][190]LogFileHelpers: Saving map 'InteractionsAero' took 0.041
+[2020.03.28-17.28.19:382][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/InteractionsAero_BuiltData" FILE="../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/InteractionsAero_BuiltData.uasset" SILENT=true
+[2020.03.28-17.28.19:391][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/InteractionsAero_BuiltData815E59A64C9655F45A160FB7729BBECC.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/InteractionsAero_BuiltData.uasset'
+[2020.03.28-17.28.19:416][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.28-17.28.19:430][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/InteractionsDukeFA5237CF4AAD5C08FB54389DCFAE4D28.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/InteractionsDuke.umap'
+[2020.03.28-17.28.19:433][190]LogFileHelpers: Saving map 'InteractionsDuke' took 0.040
+[2020.03.28-17.28.19:433][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/InteractionsDuke_BuiltData" FILE="../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/InteractionsDuke_BuiltData.uasset" SILENT=true
+[2020.03.28-17.28.19:441][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/InteractionsDuke_BuiltData7738DF6F4F2A56B208B3C190349B4776.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/InteractionsDuke_BuiltData.uasset'
+[2020.03.28-17.28.19:443][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Characters" FILE="../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/Characters.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.28-17.28.19:466][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.28-17.28.19:485][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/Characters8C94BE9642C0F05C11955088D9C3AA65.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/Characters.umap'
+[2020.03.28-17.28.19:488][190]LogFileHelpers: Saving map 'Characters' took 0.045
+[2020.03.28-17.28.19:488][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Characters_BuiltData" FILE="../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/Characters_BuiltData.uasset" SILENT=true
+[2020.03.28-17.28.19:495][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/Characters_BuiltDataA9BB5A6941F92807541B6DA5553CD8A0.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/Characters_BuiltData.uasset'
+[2020.03.28-17.28.19:497][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Environment" FILE="../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/Environment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.28-17.28.19:519][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.28-17.28.19:642][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/Environment7B2D8D85433223D7E667BFAF4F4B19B4.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/Environment.umap'
+[2020.03.28-17.28.19:645][190]LogFileHelpers: Saving map 'Environment' took 0.148
+[2020.03.28-17.28.19:645][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Environment_BuiltData" FILE="../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/Environment_BuiltData.uasset" SILENT=true
+[2020.03.28-17.28.19:742][190]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/Environment_BuiltDataE21497F0498861EC4C86BE8F218DFD97.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/Environment_BuiltData.uasset'
+[2020.03.28-17.28.19:787][190]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/InteractionsJJB.InteractionsJJB
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/InteractionsJJB_BuiltData.InteractionsJJB_BuiltData
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/InteractionsSteph.InteractionsSteph
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/InteractionsSteph_BuiltData.InteractionsSteph_BuiltData
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/InteractionsAero.InteractionsAero
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/InteractionsAero_BuiltData.InteractionsAero_BuiltData
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/InteractionsDuke.InteractionsDuke
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/InteractionsDuke_BuiltData.InteractionsDuke_BuiltData
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/Characters.Characters
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/Characters_BuiltData.Characters_BuiltData
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/Environment.Environment
+[2020.03.28-17.28.19:787][190]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/Environment_BuiltData.Environment_BuiltData
+[2020.03.28-17.29.56:427][185]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.28-17.30.01:994][834]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.28-17.30.10:267][811]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.28-17.30.15:285][396]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.28-17.30.18:808][803]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.28-17.33.34:005][ 96]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.03.28-17.34.12:331][670]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.28-17.34.22:659][890]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.28-17.34.49:708][108]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.28-17.34.59:006][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.03.28-17.34.59:054][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.28-17.34.59:214][457]LogSavePackage: Moving '../../../../../Git/PlagueJam/PlagueJamGame/Saved/TopDownExampleMapF8D40AD94BEE50720E9FDF899455F19E.tmp' to '../../../../../Git/PlagueJam/PlagueJamGame/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.03.28-17.34.59:232][457]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.202
+[2020.03.28-17.34.59:241][457]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2020.03.28-17.34.59:241][457]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
